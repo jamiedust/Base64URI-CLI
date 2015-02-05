@@ -10,8 +10,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jamiedust/Base64URI-CLI.git"
   },
+  "bugs": "https://github.com/jamiedust/Base64URI-CLI/issues",
   "preferGlobal": "true",
   "bin": {
     "base64uri": "./cli.js"
