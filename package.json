@@ -1,0 +1,23 @@
+{
+  "name": "base64uri-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI to encode a file as base64, and copy it as a data URI to the clipboard",
+  "keywords": [
+    "base64",
+    "data uri"
+  ],
+  "author": "Jamie 'dust' Woolgar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "base64uri": "./cli.js"
+  },
+  "dependencies": {
+    "mime-types": "~2.0.8",
+    "copy-paste": "~1.0.1"
+  }
+}
