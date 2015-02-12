@@ -9,11 +9,11 @@ A simple CLI to encode a file as base64, and copy it as a data URI to the clipbo
 
 ## Usage
 
-From the command line run `base64uri path/to/file.png`, the encoded data URI should 
+From the command line run `base64uri-cli path/to/file.png`, the encoded data URI should 
 then be copied to your clipboard.
 
 By default a data URI is returned, as this is what I wrote the CLI for.
-If you want the raw base64 string pass an optional -raw parameter i.e. `base64uri path/to/file.png -raw`
+If you want the raw base64 string pass an optional -raw parameter i.e. `base64uri-cli path/to/file.png -raw`
 
 ## Feedback
 
