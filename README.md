@@ -1,4 +1,4 @@
-# Base64URI-CLI
+# base64uri-cli
 
 A simple CLI to encode a file as base64, and copy it as a data URI to the clipboard.
 

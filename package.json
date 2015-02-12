@@ -15,7 +15,7 @@
   "bugs": "https://github.com/jamiedust/Base64URI-CLI/issues",
   "preferGlobal": "true",
   "bin": {
-    "base64uri": "./cli.js"
+    "base64uri-cli": "./cli.js"
   },
   "dependencies": {
     "mime-types": "~2.0.8",
